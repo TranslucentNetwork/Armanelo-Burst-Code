@@ -1,7 +1,8 @@
-# Armanelo Repository
+# Armanelo Bot - Development Repository
 
-Welcome to the Armanelo development repository!
+## Introduction
 
+Welcome to the Armanelo development repository!  
 Armanelo is a secure, developer-focused bot created by Trifonilix Security Services. It is designed with privacy, security, and exclusivity at its core. This repository is dedicated to enhancing the bot's capabilities while adhering to its core principles.
 
 ## Contribution Guidelines
@@ -16,13 +17,13 @@ Armanelo is a secure, developer-focused bot created by Trifonilix Security Servi
 
 1. **Fork the Repository**:  
    Create a personal fork of this repository before making changes.
-
+   
 2. **Create a Feature Branch**:  
    Use descriptive branch names (e.g., `feature-new-logging-system` or `bugfix-database-issue`).
 
 3. **Submit a Pull Request**:  
-   Ensure your pull request is well-documented and adheres to the coding standards outlined below.
-   - Include a summary of changes and any relevant details (e.g., why the change is necessary).
+   Ensure your pull request is well-documented and adheres to the coding standards outlined below.  
+   Include a summary of changes and any relevant details (e.g., why the change is necessary).
 
 ## Development Guidelines
 
@@ -34,24 +35,23 @@ Armanelo is a secure, developer-focused bot created by Trifonilix Security Servi
 
 ### Future Development Goals
 
-- **Enhanced Logging System**:  
-  Implement modular logging to allow more detailed and customizable log management.
+- **Enhanced Logging System**: Implement modular logging to allow more detailed and customizable log management.
+- **Advanced Whitelisting**: Add support for dynamic updates to the whitelist through a secure admin interface.
+- **Developer Dashboard**: Create a web-based dashboard for collaborators to monitor system health, logs, and active pull requests.
+- **Integration Testing**: Develop automated integration tests to ensure smooth compatibility with all supported platforms.
 
-- **Advanced Whitelisting**:  
-  Add support for dynamic updates to the whitelist through a secure admin interface.
-
-- **Developer Dashboard**:  
-  Create a web-based dashboard for collaborators to monitor system health, logs, and active pull requests.
-
-- **Integration Testing**:  
-  Develop automated integration tests to ensure smooth compatibility with all supported platforms.
-
-## Coding Standards
+### Coding Standards
 
 - Write clear and concise documentation for all functions, classes, and modules.
 - Use meaningful commit messages and branch names.
 
----
+## Priority Levels
+
+To understand how different server levels are prioritized and what commands they can access, **scroll down** to the **Priority Levels** section. This section explains the distinctions between **Priority 1**, **Priority 2**, and **Priority 3** servers.
+
+## Function Definitions
+
+To view the list of bot functions used within Armanelo, **scroll down** to the section titled **Function Definitions**. This section outlines the key functions, their descriptions, and how they contribute to the bot’s operations.
 
 Happy coding, and thank you for contributing to Armanelo!
 
