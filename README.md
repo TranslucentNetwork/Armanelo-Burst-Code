@@ -57,6 +57,18 @@ Happy coding, and thank you for contributing to Armanelo!
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Armanelo Bot - Function Definitions
 
 ## Database Functions
