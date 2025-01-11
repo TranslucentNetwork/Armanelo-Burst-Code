@@ -55,18 +55,8 @@ Armanelo is a secure, developer-focused bot created by Trifonilix Security Servi
 
 Happy coding, and thank you for contributing to Armanelo!
 
+
 <br>
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Armanelo Bot - Function Definitions
@@ -116,4 +106,22 @@ Fetches the ban `reason` for a specified `user` from the `gban` table. This func
 - All functions manage database connections and execute queries on relevant tables, including `serviceowner`, `developers`, `operators`, `logging`, and `gban`.
 - These functions use `async` to perform non-blocking database operations, ensuring efficient execution.
 - Comprehensive exception handling has been implemented to capture and log errors during database interactions, ensuring robust performance.
+
+
+<br>
+
+
+# Priority Levels
+
+## **Priority 1: Full Access**
+- **Access Level**: All application commands
+- **Description**: Priority 1 servers have the highest level of access, with permission to use all available commands, including the most critical commands. These servers have unrestricted control over the bot’s full functionality.
+
+## **Priority 2: Limited Access**
+- **Access Level**: Most commands, with some restrictions
+- **Description**: Priority 2 servers have access to nearly all bot commands, but certain high-level commands are restricted. These servers are typically trusted, service-oriented environments that require access to most administrative and operational commands, but not those that would allow more extreme actions (e.g., forcing the bot to leave a server).
+
+## **Priority 3: Basic Access**
+- **Access Level**: Utility and miscellaneous commands
+- **Description**: Priority 3 servers have the lowest access level. They are limited to using utility commands and other minor features that do not affect core bot functionality. These servers can perform basic tasks, but have no control over critical or administrative operations.
 
