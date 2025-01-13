@@ -8,4 +8,4 @@ I will handle all the necessary configuration, including:
 - Setting up the appropriate server-specific permissions and roles.
 - Integrating commands with the database to ensure they function as expected.
 
-Simply ensure that the command is defined, and include any relevant parameters or functionality you want the command to have. Once you've done that, submit it as a pull request, and I will handle the rest.
+Simply ensure that the command is defined, and include any relevant parameters or functionality you want the command to have. Once you've done that, submit it as a pull request, and I will handle the rest.a
