@@ -6,6 +6,7 @@ Welcome to the Armanelo development repository!
 Armanelo is a secure, developer-focused bot created by Trifonilix. It is designed with privacy, security, and exclusivity at its core. This repository is dedicated to enhancing the bot's capabilities while adhering to its core principles.
 
 ## Contribution Guidelines
+TERST
 
 ### Pull Request Policy
 
