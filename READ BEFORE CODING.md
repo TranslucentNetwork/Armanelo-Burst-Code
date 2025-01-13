@@ -3,7 +3,7 @@
 As a contributor, your responsibility is to create the commands based on the specified functionality and submit them via a pull request.
 
 I will handle all the necessary configuration, including:
-s
+
 - Assigning the correct priority and access levels for each command.
 - Setting up the appropriate server-specific permissions and roles.
 - Integrating commands with the database to ensure they function as expected.
